@@ -2,6 +2,16 @@
 Solutions Architect – Telecom Data Analytics | 17+ Yrs | 5G · 4G · IMS · Cloud-Native (K8s, ECCD, OpenShift) | Ericsson EEA Integration| Big Data · Kafka · Hadoop | Multi-Market: USA · UK · UAE · Denmark · Canada
 
 ---
+<h1 align="center">👋 Hi, I'm Rohit Goyal</h1>
+<h3 align="center">🚀 Solution Architect | Infra Technical Lead | Telecom Big Data Analytics Expert</h3>
+
+<p align="center">
+  <a href="mailto:rohit.liet@gmail.com"><img src="https://img.shields.io/badge/Email-rohit.liet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+918860818981"><img src="https://img.shields.io/badge/Phone-%2B91%208860818981-green?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Noida%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</p>
+
+---
 
 ## 🧑‍💼 About Me
 
@@ -36,7 +46,10 @@ Currently working as **Solution Architect – EEA (Ericsson Expert Analytics)** 
 ![Vertica](https://img.shields.io/badge/Vertica-00BFFF?style=flat-square)
 ![Impala](https://img.shields.io/badge/Impala-orange?style=flat-square)
 
-
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ### 📡 Networking & Telecom
 `TCP/IP` `OSI` `SS7` `Diameter` `GTP` `Radius` `5G/4G/3G/2G` `PCRF` `VAS` `IMS` `NWDAF`
@@ -164,3 +177,4 @@ Currently working as **Solution Architect – EEA (Ericsson Expert Analytics)** 
 </p>
 
 <p align="center"><i>"Delivering complex telecom analytics solutions globally — one deployment at a time."</i></p>
+ons globally — one deployment at a time."</i></p>
